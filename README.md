@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nikolas Theriot
 - 👀 I’m interested in Cybersecurity.
 - 🌱 I’m currently dual certified in both Google Cybersecurity and CompTIA Security+. I am currently enrolled in Cybersecurity defense bootcamp.
-- 💞️ I’m looking to collaborate on cybersecurity projects.
+- 💞️ I’m looking to collaborate on cybersecurity projects. I aim to build cybersecurity portofolio. 
 - 📫 Reach me at ntheriot@gmail.com
 
 <!---
